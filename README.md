@@ -23,6 +23,13 @@ This is a simple To-Do List website created using HTML, CSS, and JavaScript. The
 - JavaScript: Used to add interactivity to the website and enable the user to add, delete, and mark tasks as done.
 
 
+## Screenshots
+
+![test](https://user-images.githubusercontent.com/113261323/236291166-d7690691-7c2f-48ea-8b2e-dd190c2011c8.png)
+![test1](https://user-images.githubusercontent.com/113261323/236291519-90ac7c36-7cc1-41ca-aea9-0a8d4b65e20c.png)
+![test3](https://user-images.githubusercontent.com/113261323/236291710-5fb0f2c8-64ae-4c44-9e65-ec7ef31f3566.png)
+
+
 ## Run Locally
 
 https://varsha-7007.github.io/To-Do-List.github.io/
